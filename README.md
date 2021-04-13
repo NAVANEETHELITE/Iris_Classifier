@@ -1,5 +1,5 @@
-# Iris_Classifier
+# Iris_Classifier WEB APP
 
-Use my model to Predict the class of IRIS flower.!
+A simple model to Predict the class of IRIS flower.!
 
 App link: http://mlclassifier.herokuapp.com
